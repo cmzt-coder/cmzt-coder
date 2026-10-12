@@ -6,8 +6,6 @@
 
 把大模型能力落到真实场景：GPU 资源监控、LLM 应用、知识库与内部工具。
 
-[博客](https://github.com/cmzt-coder/simple-blog)
-
 </div>
 
 ## 关于我
